@@ -106,8 +106,6 @@ elif menu == "👥 Tentang Kami":
 
     Karena hidup udah cukup berat...  
     📌 Jangan biarkan tekanan gas ikut bikin tekanan batin 🤖💨  
-    """)
-    ---
     
     **Kontak:**
     - Email: info@example.com
@@ -117,8 +115,6 @@ elif menu == "👥 Tentang Kami":
     Terima kasih telah menggunakan aplikasi kami!  
     Kami berharap aplikasi ini membantu dalam belajar dan mengerjakan tugas-tugas fisika atau kimia Anda.
     """)
-
-
 
 # ================================
 # 🧮 KALKULATOR PAGE
