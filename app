@@ -107,7 +107,8 @@ elif menu == "👥 Tentang Kami":
     Karena hidup udah cukup berat...  
     📌 Jangan biarkan tekanan gas ikut bikin tekanan batin 🤖💨  
     """)
-
+    ---
+    
     **Kontak:**
     - Email: info@example.com
     - Website: [www.example.com](https://www.example.com)
