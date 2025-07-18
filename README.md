@@ -1,3 +1,1 @@
-streamlit 
-pandas 
-numpy
+Kalkulator Gas Ideal
